@@ -6,14 +6,6 @@ Having started as a developer, I’m now responsible for a small development tea
 
 I’m passionate about unlocking the potential of the team around me, and looking at how technology is adapting and shifting around us is key to helping me guide developers forward. Not one to shy away from new things, it’s about choosing the right thing instead of a shiny new thing (which may subsequently be shelved). Infrastructure as Code, and Serverless development (while potentially seen at odds with each other) are more of interest recently as well as digging deep into existing code and realising bottlenecks and rearchitecting the code where suitable to decrease execution times.
 
-### How to reach me:
-
-🐦: [@michaelw90](https://twitter.com/michaelw90)<br>
-📷: [@michael.w.90](https://instagram.com/michael.w.90)<br>
-🖥: [https://michael.wright.uk](https://michael.wright.uk)<br>
-🧳: [LinkedIn](https://www.linkedin.com/in/michaelw90)
-
-
 <!--
 **michaelw90/michaelw90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
